@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+    <style name="AppBlueTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/transparent</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorPrimaryDark">@color/transparent</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:fitsSystemWindows">true</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+        <item name="android:windowBackground">@color/color_FF545FCA</item>
+    </style>
+
+
+</resources>

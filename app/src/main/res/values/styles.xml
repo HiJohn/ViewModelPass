@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MeTextAppearance" parent="TextAppearance.AppCompat.Medium">
+    </style>
+
+    <style name="TextAppearance.12sp" parent="MeTextAppearance">
+        <item name="android:textSize">@dimen/sp_12</item>
+    </style>
+    <style name="TextAppearance.14sp" parent="MeTextAppearance">
+        <item name="android:textSize">@dimen/sp_14</item>
+    </style>
+
+    <style name="TextAppearance.12sp.White" parent="MeTextAppearance">
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="TextAppearance.14sp.White" parent="MeTextAppearance">
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="TextAppearance.14sp.White.Bold" parent="MeTextAppearance">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.12sp.Black" parent="MeTextAppearance">
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="TextAppearance.14sp.Black" parent="MeTextAppearance">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="TextAppearance.14sp.Black.Bold" parent="MeTextAppearance">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>
