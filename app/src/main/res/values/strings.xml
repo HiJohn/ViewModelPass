@@ -3,4 +3,7 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="to_ho">To Ho</string>
+    <string name="friends_auth_tip">被邀请人<font color="#FFFD7219">实名认证</font>才可激活为好友</string>
+
 </resources>
