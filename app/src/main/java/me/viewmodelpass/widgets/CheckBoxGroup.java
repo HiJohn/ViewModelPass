@@ -28,7 +28,7 @@ import me.viewmodelpass.R;
 
 
 public class CheckBoxGroup extends LinearLayout {
-    private final String TAG = "CheckBoxGroup";
+    private static final String TAG = "CheckBoxGroup";
     private ArrayList<Integer> mCheckedIds = new ArrayList<>();
     private CompoundButton.OnCheckedChangeListener mChildOnCheckedChangeListener;
     private CheckBoxGroup.PassThroughHierarchyChangeListener mPassThroughListener;

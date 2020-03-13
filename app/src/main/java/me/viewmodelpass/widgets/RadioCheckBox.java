@@ -2,7 +2,6 @@ package me.viewmodelpass.widgets;
 
 import android.content.Context;
 import android.util.AttributeSet;
-import android.widget.RadioButton;
 
 public class RadioCheckBox extends androidx.appcompat.widget.AppCompatCheckBox {
 
